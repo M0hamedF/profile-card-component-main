@@ -24,8 +24,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ![Status-Preview-Card](images/Screenshot.png)
 
 ### Links
-- Solution URL: (https://github.com/M0hamedF/Column-preview-card)
-- Live Site URL: (https://m0hamedf.github.io/Column-preview-card/)
+- Solution URL: (https://github.com/M0hamedF/profile-card-component-main)
+- Live Site URL: (https://m0hamedf.github.io/profile-card-component-main/)
 
 ### Built with
 - Semantic HTML5
